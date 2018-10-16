@@ -73,7 +73,7 @@
 		<h1 class="post-title" itemprop="name headline">
 			{{ page.title }}</h1>
 		<div class="post-data">
-				<time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">{{ page.date | date: "%F %H:%M:%S"}}</time>
+				<time datetime="{{ page.date | date: '%F %H:%M:%S'}}" itemprop="datePublished">{{ page.date | date: "%F "}}</time>
 		</div>
 	</div>
 	<div id="post-content" class="post-content" itemprop="articleBody">
@@ -99,7 +99,7 @@
 </p>
 {{ content }}
 		<p class="post-info">
-			本文由 <a href="/">Eric</a> 创作，采用 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a> 国际许可协议进行许可<br>本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>最后编辑时间为:{{ page.date | date: "%F %H:%M:%S"}}</p>
+			本文由 <a href="/">Eric</a> 创作，采用 <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="external nofollow">知识共享署名4.0</a> 国际许可协议进行许可<br>本站文章除注明转载/出处外，均为本站原创或翻译，转载前请务必署名<br>最后编辑时间为:{{ page.date | date: "%F "}}</p>
 	</div>
 </article>
 
