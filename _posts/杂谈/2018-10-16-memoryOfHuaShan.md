@@ -1,7 +1,7 @@
 ---
 layout: blog
 road: true
-background-image: https://wx3.sinaimg.cn/mw690/007m4eEbgy1fw9zmbh6mdj30zk0qogql.jpg
+background-image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzovp1ou3dj31400u0npd.jpg
 category: 
 title: 华山之旅回忆！！！
 tags:
