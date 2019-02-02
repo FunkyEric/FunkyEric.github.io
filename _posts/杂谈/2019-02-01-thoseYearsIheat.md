@@ -1,7 +1,7 @@
 ---
 layout: blog
 book: true
-backgroung-image:
+backgroung-image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzs6fldn86j31400u0b2b.jpg
 category:
 title: 年关将至,语录集合
 tags: 
