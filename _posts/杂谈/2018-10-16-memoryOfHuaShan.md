@@ -15,7 +15,7 @@ redirect_from:
 
 ## 下面的记载都是我当时的日记，为了保留那种心情，我就原封不动的放上去了。
 
-![正在吸收朝阳精华的我](https://wx3.sinaimg.cn/mw690/007m4eEbgy1fw9zmbh6mdj30zk0qogql.jpg)
+![正在吸收朝阳精华的我](https://wx3.sinaimg.cn/mw690/007m4eEbgy1fw9zmbh6mdj30zk0qogql.jpg"华山日出之时")
 
 
 ### 08.13 
