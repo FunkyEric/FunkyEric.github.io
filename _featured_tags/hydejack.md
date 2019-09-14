@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Hydejack
+title: 生活
 slug: hydejack
 menu: true
 order: 2

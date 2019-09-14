@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Hy
-slug: hyd
+title: 工作
+slug: hyde
 menu: true
 order: 1
 description: >
