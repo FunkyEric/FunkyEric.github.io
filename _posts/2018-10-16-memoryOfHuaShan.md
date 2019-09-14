@@ -3,7 +3,7 @@ layout: post
 title: "memory-in-HuaShan"
 author: Eric
 categories: [ Jekyll, tutorial ]
-image: 
+image: https://wx3.sinaimg.cn/mw690/007m4eEbgy1fw9zmbh6mdj30zk0qogql.jpg"华山日出之时"
 ---
 
 
