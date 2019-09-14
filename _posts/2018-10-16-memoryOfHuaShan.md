@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: "memory-in-HuaShan"
 author: Eric
 categories: [ Jekyll, tutorial ]
