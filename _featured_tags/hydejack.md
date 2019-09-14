@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 六便士
+title: Sixpence
 slug: hydejack
 menu: true
 order: 2

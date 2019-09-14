@@ -22,7 +22,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 The Moon and sixpence
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -33,7 +33,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  满地都是六便士，他却抬头看见了月亮。
+  All over the place was sixpence, but he looked up at the moon.
 
 # A list of keywords for your blog
 keywords:              []
