@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: "华山之旅"
+title: "memory-in-HuaShan"
 author: Eric
-category: [ Jekyll, tutorial ]
+categories: [ Jekyll, tutorial ]
 image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzovp1ou3dj31400u0npd.jpg
 ---
 
