@@ -1,11 +1,11 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'FunkyEric'
+description: 'A simple blog'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/FunkyEric.github.io'
 disqus: 'demowebsite'
-email: 'wowthemesnet@gmail.com'
+email: 'gouzhun247@163.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
@@ -19,12 +19,12 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
+    Eric:
+      name:           Eric
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
+      email:          gouzhun247@163.com
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
@@ -43,7 +43,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Eric
       avatar: /assets/images/avatar1.jpg
       
   # all pages
