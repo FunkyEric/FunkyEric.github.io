@@ -1,14 +1,9 @@
 ---
 layout: blog
-road: true
-background-image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzovp1ou3dj31400u0npd.jpg
-category: 
-title: 华山之旅回忆！！！
-tags:
-- 杂谈
-- road
-redirect_from:
-  - /2018/10/bookindex/
+title: "华山之旅"
+author: Eric
+category: [ Jekyll, tutorial ]
+image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzovp1ou3dj31400u0npd.jpg
 ---
 
 # 华山之旅,珍惜回忆！！！ 
