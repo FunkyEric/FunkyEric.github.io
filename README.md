@@ -1,67 +1,51 @@
-                .::         .::                       .::      .::                 
-                .::       .:.::                        .::   .::                    
-                .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
-                .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
-                .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
-                .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
-                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
-                           
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+# Jekyll Theme - Mundana by WowThemes.net
 
-`Jekyll Themes`
-----------
-[中文版帮助文档README](/ChinaREADME.md)
-## `Lightweight`  `Minimalist`  `Jekyll blog`
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; 
+[Buy me a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/) &nbsp; | &nbsp; 
+[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/) 
 
-### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
-### The second step is to modify the _config.yml in URL for your domain name
+![mundana jekyll theme screenshot](assets/images/screenshot.jpg)
 
-### OK all right, it's that simple
+### Documentation
 
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
+[How to install & use](https://bootstrapstarter.com/bootstrap-templates/mundana-theme-jekyll/)
 
-- [x] Automatic generation tag
-- [x] Automatic generation of JSON search
-- [x] Adaptive template
-- [x] Automatic generation of feed.xml
-- [x] Automatic paging generation
-- [x] Modify _config.yml's links for your menu
-- [x] Modify the _config.yml of paginate for how many pages you want to page
+### Contribute to Mundana repository
 
-![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
+1. In the top-right corner of this page, click **Fork**.
 
- ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
+2. Clone a copy of your fork on your local, replacing *YOUR-USERNAME* with your Github username.
 
- ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
+   `git clone https://github.com/YOUR-USERNAME/mundana-theme-jekyll.git`
 
- ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
+3. **Create a branch**: 
 
-  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
+   `git checkout -b <my-new-feature-or-fix>`
 
- ----------
-![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
+4. **Make necessary changes and commit those changes**:
 
-### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
- 
-----
+   `git add .`
 
-![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
-  
-  
+   `git commit -m "new feature or fix"`
+
+5. **Push changes**, replacing `<add-your-branch-name>` with the name of the branch you created earlier at step #3. :
+
+   `git push origin <add-your-branch-name>`
+
+6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
+
+That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
 
 
-### 2. modify _config.yml url URL for your domain
+### Copyright
 
-![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
-  
+Copyright (C) 2019 WowThemes.net.
 
+Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license. 
 
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [Email](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
+### Live Demo
 
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
