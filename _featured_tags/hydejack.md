@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 生活
+title: 六便士
 slug: hydejack
 menu: true
 order: 2

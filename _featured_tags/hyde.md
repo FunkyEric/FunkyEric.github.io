@@ -1,6 +1,6 @@
 ---
 layout: list
-title: 工作
+title: 月亮
 slug: hyde
 menu: true
 order: 1
