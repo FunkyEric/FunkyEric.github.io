@@ -1,8 +1,10 @@
 ---
 layout: post
-image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzs6fldn86j31400u0b2b.jpg
+title:  "those years I heat"
+author: jane
+image: https://images.unsplash.com/photo-1528784351875-d797d86873a1?ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80
 categories:[ Jekyll, tutorial ]
-title: "年关将至,语录集合""
+title: [summer]
 ---
 
 ### 这篇文章记载的是过去这些年，我在网络上写下的一些只言片语，通过回顾过去自己的想法，能够对自己有更多的认识，我认为这对一个人的发展是有超乎寻常的意义的。激情或低迷，壮志或迷惘，一览无余。
