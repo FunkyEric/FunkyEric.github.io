@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Eric!"
+title:  "Welcome to FunkyEric!"
 categories: [ Jekyll ]
 image: assets/images/demo1.jpg
 ---
