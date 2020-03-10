@@ -2,7 +2,7 @@
 layout: post
 title: "Two principle"
 author: Eric
-categories:[ 创业 ]
+categories: [ 创业 ]
 image: assets/images/14.jpg
 tags: [summer]
 ---
