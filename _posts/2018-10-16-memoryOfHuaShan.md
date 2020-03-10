@@ -2,7 +2,7 @@
 layout: post
 title: "memory-in-HuaShan"
 author: Eric
-categories: [ Jekyll, tutorial ]
+categories: [ 心情 ]
 image: assets/images/sunRaise.jpg
 tags: [featured]
 ---

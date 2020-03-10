@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to FunkyEric!"
-categories: [ Jekyll ]
+categories: [ 心情 ]
 image: assets/images/demo1.jpg
 ---
 嗨 欢迎来到我的个人blog，在这里你会看到我生活工作中各种思考与心得，我所记录的世界以及我推荐的好玩或美的事情。 

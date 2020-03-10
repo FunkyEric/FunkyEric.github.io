@@ -2,7 +2,7 @@
 layout: post
 title:  "those years I heat"
 author: jane
-categories: [ Jekyll, tutorial ]
+categories: [ 心情 ]
 image: assets/images/17.jpg
 tags: [summer]
 ---
