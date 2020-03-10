@@ -7,8 +7,6 @@ image: assets/images/sunRaise.jpg
 tags: [featured]
 ---
 
-# 华山之旅,珍惜回忆！！！ 
-
 ##### 下面的记载都是我当时的日记，为了保留那种心情，我就原封不动的放上去了。
 
 ---
