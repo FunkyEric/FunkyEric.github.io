@@ -3,7 +3,7 @@ layout: post
 title: "memory-in-HuaShan"
 author: Eric
 categories: [ Jekyll, tutorial ]
-image: https://wx2.sinaimg.cn/mw690/007m4eEbgy1fzovp1ou3dj31400u0npd.jpg
+image: https://photo.weibo.com/6739018835/wbphotos/large/mid/4295736508268123/pid/007m4eEbgy1fw9zm9nivuj30zk0qon7q
 tags: [featured]
 ---
 
