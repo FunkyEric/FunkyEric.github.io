@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to FunkyEric!"
+title:  "欢迎来到 FunkyEric!"
 categories: [ 心情 ]
 image: assets/images/demo1.jpg
 ---
