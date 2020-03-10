@@ -11,6 +11,7 @@ There are lots of powerful things you can do with the Markdown editor.
 
 # 年关将至，语录合集
 
+---
  “还有最后五天啊”————2011.06.28
  
 `记不太清了，应该是高考成绩出来还剩五天的时候。那时候好像已经感觉自己考得不太好了，但也不知道何去何从，发出这样的感慨大致上是有些绝望的意思。`
